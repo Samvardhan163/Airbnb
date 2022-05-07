@@ -11,6 +11,7 @@ export default function Home({ searchResults }) {
       <main className="max-w-7xl mx-auto">
         <section className="pt-6">
           <h2 className="text-4xl font-semibold pb-5">Explore </h2>
+          <h1>Cool</h1>
           {/* {exploreData.map((item) => {
             <h1>{item.location}</h1>;
           })} */}

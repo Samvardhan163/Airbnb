@@ -1,0 +1,6 @@
+fileignoreconfig:
+  - filename: package-lock.json
+    checksum: 6031a365a85bbb6bde4f75f3a53b0e3e1ad7c9c1e0ca49c3ca0febb835c1cb97
+  - filename: public/fun.png
+    checksum: ca36f4a9268a850595ee5a997916d72afee4e3a8a4aa2daa3c2ecc5e8d0a3a49
+version: ""
